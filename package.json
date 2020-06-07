@@ -1,0 +1,14 @@
+{
+  "name": "elc",
+  "version": "1.0.0",
+  "description": "App to Img",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ahmed habeeb",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.2"
+  }
+}
